@@ -1,0 +1,62 @@
+body{
+    background-image: url("../images/background.jpg");
+}
+.head{
+    background-color : orange;
+    color: white;
+    height: 100px;
+ 
+}
+.ins{
+    background-color : pink;
+    color: green;
+    height: 500px;
+  
+}
+
+.compG{
+    background-color : green;
+    color: purple;
+    height: 175px;
+  
+}
+.win-lose{
+    background-color : aqua;
+    color: black;
+    height: 175px;
+  
+}
+
+.gem-red{
+    background-color : red;
+    
+   
+}
+.gem-blue{
+    background-color : blue;
+   
+    
+}
+.gem-yellow{
+    background-color : yellow;
+   
+    
+}
+.gem-green{
+    background-color : green;
+   
+  
+}
+.score{
+    background-color : #01898a;
+    color: white;
+    height: 25px;
+   
+}
+.lastScore{
+    background-color : #01898a;
+    color: white;
+    height: 100px;
+    
+}
+
